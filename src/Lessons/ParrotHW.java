@@ -2,6 +2,9 @@ package Lessons;
 
 public class ParrotHW {
 	
+//	squawking is a boolean and represents the parrot
+//	currentHour is an int that reps the hours of the day 
+	
 	public static boolean getUp(boolean squawking, int currentHour) {
 
 		
